@@ -1,1 +1,3 @@
-# PE-G03
+# Programação Estruturada - UFABC
+
+##Grupo 03
